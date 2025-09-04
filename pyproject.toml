@@ -1,0 +1,14 @@
+[project]
+name = "career-conversations"
+version = "0.1.0"
+description = "Career conversations chat assistant build using llm; expertise in the context of your skill, career, background."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.44.1",
+    "openai>=1.105.0",
+    "openai-agents>=0.2.11",
+    "pypdf>=6.0.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+]
