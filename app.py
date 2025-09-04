@@ -73,6 +73,7 @@ tools = [{"type": "function", "function": record_user_details_json},
         {"type": "function", "function": record_unknown_question_json}]
 
 
+
 class Me:
 
     def __init__(self):
@@ -130,5 +131,11 @@ If the user is engaging in discussion, try to steer them towards getting in touc
 
 if __name__ == "__main__":
     me = Me()
-    gr.ChatInterface(me.chat, type="messages").launch()
+    gr.ChatInterface(me.chat, type="messages", js="""
+  () => {
+    if (!window.location.search.includes('__theme=dark')) {
+      window.location.search += (window.location.search ? '&' : '?') + '__theme=dark';
+    }
+  }
+""").launch()
     
