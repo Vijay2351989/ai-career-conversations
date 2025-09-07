@@ -30,7 +30,7 @@ We will deploy to HuggingFace Spaces.
 
 Before you start: remember to update the files in the "me" directory - your LinkedIn profile and summary.txt - so that it talks about you! Also change `self.name = "Vijay Bhatt"` in `app.py`..  
 
-Also check that there's no README file within the 1_foundations directory. If there is one, please delete it. The deploy process creates a new README file in this directory for you.
+The deploy process creates a new README file in this directory for you.
 
 1. Visit https://huggingface.co and set up an account  
 2. From the Avatar menu on the top right, choose Access Tokens. Choose "Create New Token". Give it WRITE permissions - it needs to have WRITE permissions! Keep a record of your new key.  
@@ -39,8 +39,6 @@ Also check that there's no README file within the 1_foundations directory. If th
 5. From the 1_foundations folder, enter: `uv run gradio deploy` 
 6. Follow its instructions: name it "career_conversation", specify app.py, choose cpu-basic as the hardware, say Yes to needing to supply secrets, provide your openai api key, your pushover user and token, and say "no" to github actions.  
 
-Thank you Robert, James, Martins, Andras and Priya for these tips.  
-Please read the next 2 sections - how to change your Secrets, and how to redeploy your Space (you may need to delete the README.md that gets created in this 1_foundations directory).
 
 #### More about these secrets:
 
