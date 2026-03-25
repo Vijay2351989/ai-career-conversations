@@ -1,2 +1,11 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Vijay Bhatt. Results-driven Principal Architect with 15+ years of experience designing and delivering production-
+grade distributed systems, cloud-native microservices, and AI-powered enterprise solutions. Deep exper-
+tise in Node.js, TypeScript, and Python, with a strong track record of architecting scalable event-driven
+systems and microservice ecosystems. Extensive experience implementing microservices design patterns
+including API Gateway, CQRS, Saga, circuit breaker, and service mesh to build resilient, loosely cou-
+pled distributed architectures. Skilled in building RAG pipelines, AI-powered Q&A systems, agentic
+workflows, and document understanding platforms, with hands-on experience designing agentic patterns
+such as ReAct agents, evaluator-feedback loops, parallel sub-agent orchestration, and hierarchical multi-
+agent systems. Proven ability to lead cross-functional engineering teams, mentor developers, and drive
+measurable impact in system design, operational efficiency, and platform modernization across domains
+including energy, logistics, collaboration, and procurement.
