@@ -4,8 +4,10 @@ tise in Node.js, TypeScript, and Python, with a strong track record of architect
 systems and microservice ecosystems. Extensive experience implementing microservices design patterns
 including API Gateway, CQRS, Saga, circuit breaker, and service mesh to build resilient, loosely cou-
 pled distributed architectures. Skilled in building RAG pipelines, AI-powered Q&A systems, agentic
-workflows, and document understanding platforms, with hands-on experience designing agentic patterns
-such as ReAct agents, evaluator-feedback loops, parallel sub-agent orchestration, and hierarchical multi-
-agent systems. Proven ability to lead cross-functional engineering teams, mentor developers, and drive
-measurable impact in system design, operational efficiency, and platform modernization across domains
-including energy, logistics, collaboration, and procurement.
+workflows, and document understanding platforms, with hands-on experience designing agentic pat-
+terns such as ReAct agents, evaluator-feedback loops, parallel sub-agent orchestration, and hierarchical
+multi-agent systems—including deploying production-grade multi-agent applications on AWS (Bedrock,
+Lambda, SageMaker) over Terraform-managed, least-privilege IAM infrastructure. Proven ability to lead
+cross-functional engineering teams, mentor developers, and drive measurable impact in system design,
+operational eﬀiciency, and platform modernization across domains including energy, logistics, collabora-
+tion, and procurement.
